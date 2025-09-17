@@ -4,7 +4,7 @@
 
 [English readme](https://github.com/LemoeChun/LemoeChun/blob/main/README.en.md)
 
-Hi, here is Creeperxie! Cute, moe, and lovely!
+Hi, here is LemoeChun! Cute, moe, and lovely!
 
 ## GPG Public key
 
@@ -12,7 +12,7 @@ Hi, here is Creeperxie! Cute, moe, and lovely!
 
 ## Email
 
-<Creeperxie@outlook.com>
+<LemoeChun@outlook.com>
 
 ## Tech Stacks
 
