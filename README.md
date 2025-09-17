@@ -1,10 +1,10 @@
 # Sniventals
 
-[正體中文 readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.md)
+[正體中文 readme](https://github.com/LemoeChun/LemoeChun/blob/main/README.md)
 
-[English readme](https://github.com/creeper-xie/creeper-xie/blob/main/README.en.md)
+[English readme](https://github.com/LemoeChun/LemoeChun/blob/main/README.en.md)
 
-你好，這裡是Creeperxie！可愛い、萌、愛らしい!!
+你好，這裡是綝萌椿！可愛い、萌、愛らしい!!
 
 ## GPG 公鑰
 
@@ -12,7 +12,7 @@
 
 ## 電子郵件
 
-<Creeperxie@outlook.com>
+<LemoeChun@outlook.com>
 
 ## 交流群
 qq: [951194567](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=RZ2LIgNtLxJOJDGRNmZrGa3JbGJRmWxK&authKey=PUB%2FUBtQnKyowOWpp4HxSJtZJPZQoFNmvOo4Es7CXhx6dsPxfynuoGuy%2BJLz9IkY&noverify=0&group_code=951194567)
@@ -24,10 +24,10 @@ qq: [951194567](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=RZ2LIgNtLxJOJDGRNmZrGa
 
 ## GitHub 統計數據 
 
-[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper-xie&count_private=true&show_icons=true&theme=catppuccin_latte&locale=zh-tw&layout=compact)](https://github.com/creeper-xie#gh-light-mode-only)
-[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper-xie&count_private=true&show_icons=true&theme=catppuccin_mocha&locale=zh-tw&layout=compact)](https://github.com/creeper-xie#gh-dark-mode-only)
+[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemoeChun&count_private=true&show_icons=true&theme=catppuccin_latte&locale=zh-tw&layout=compact)](https://github.com/LemoeChun#gh-light-mode-only)
+[![Sniventals's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemoeChun&count_private=true&show_icons=true&theme=catppuccin_mocha&locale=zh-tw&layout=compact)](https://github.com/LemoeChun#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper-xie&theme=catppuccin_latte&locale=zh-tw&layout=compact)](https://github.com/creeper-xie#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper-xie&theme=catppuccin_mocha&locale=zh-tw&layout=compact)](https://github.com/creeper-xie#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemoeChun&theme=catppuccin_latte&locale=zh-tw&layout=compact)](https://github.com/LemoeChun#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemoeChun&theme=catppuccin_mocha&locale=zh-tw&layout=compact)](https://github.com/LemoeChun#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=creeperxie&theme=catppuccin-mocha&locale=zh_Hant)](https://git.io/streak-stats)
