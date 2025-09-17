@@ -4,7 +4,7 @@
 
 [English readme](https://github.com/LemoeChun/LemoeChun/blob/main/README.en.md)
 
-你好，這裡是Creeperxie！可愛い、萌、愛らしい!!
+你好，這裡是綝萌椿！可愛い、萌、愛らしい!!
 
 ## GPG 公鑰
 
@@ -12,7 +12,7 @@
 
 ## 電子郵件
 
-<Creeperxie@outlook.com>
+<LemoeChun@outlook.com>
 
 ## 交流群
 qq: [951194567](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=RZ2LIgNtLxJOJDGRNmZrGa3JbGJRmWxK&authKey=PUB%2FUBtQnKyowOWpp4HxSJtZJPZQoFNmvOo4Es7CXhx6dsPxfynuoGuy%2BJLz9IkY&noverify=0&group_code=951194567)
